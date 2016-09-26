@@ -1,0 +1,5 @@
+/Users/Tamerlan/C# Projects/Vectors/Vectors/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Tamerlan/C# Projects/Vectors/Vectors/bin/Debug/Vectors.exe.mdb
+/Users/Tamerlan/C# Projects/Vectors/Vectors/bin/Debug/Vectors.exe
+/Users/Tamerlan/C# Projects/Vectors/Vectors/obj/x86/Debug/Vectors.exe
+/Users/Tamerlan/C# Projects/Vectors/Vectors/obj/x86/Debug/Vectors.exe.mdb
